@@ -26,9 +26,3 @@
    <img align="center" src="https://profile-counter.glitch.me/byrcvf/count.svg" />
  </p>
  
-<div>
-	
-  ![Snake animation](https://github.com/byrcvf/byrcvf/blob/output/github-contribution-grid-snake.svg)
-	
-</div>
- 
