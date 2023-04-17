@@ -30,4 +30,10 @@
     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ircvf&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
+
+<div align="center">
+
+  ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
+  
+</div>
  
