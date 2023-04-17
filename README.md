@@ -20,7 +20,7 @@
  
 ## Quantidade de Visitas :mag_right:  <br>
 <p align="left"> 
-  <img align="center" style="color: red;" src="https://profile-counter.glitch.me/byrcvf/count.svg" />
+  <img align="center" src="https://profile-counter.glitch.me/byrcvf/count.svg" />
 </p>
  
 ## Estatísticas :mag_right:  <br>
