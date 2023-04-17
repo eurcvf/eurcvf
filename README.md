@@ -24,13 +24,13 @@
 </p>
  
 ## Estatísticas :mag_right:  <br>
-<div align="center">
+<div align="left">
   <a href="https://github.com/ircvf">
-    <img height="185em" src="https://github-readme-stats.vercel.app/api?username=ircvf&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
+    <img height="190em" src="https://github-readme-stats.vercel.app/api?username=ircvf&count_private=true&include_all_commits=true&show_icons=true&theme=dracula&hide_border=false&show_owner=true"/>
     <img height="190em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ircvf&theme=dracula&hide_border=false&&layout=compact"/>
   </a>
 </div>
-
+<br>
 <div align="center">
 
   ![Snake animation](https://github.com/danielbped/danielbped/blob/output/github-contribution-grid-snake.svg)
