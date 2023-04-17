@@ -24,5 +24,5 @@
 </p>
  
 ## Estatísticas :mag_right:  <br>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ircvf)](https://github.com/ircvf/github-readme-stats)
+[![Roberto Filho's GitHub Stats](https://github-readme-stats.vercel.app/api?username=ircvf)](https://github.com/ircvf/github-readme-stats)
  
