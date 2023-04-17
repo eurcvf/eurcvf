@@ -24,8 +24,5 @@
 </p>
  
 ## Estatísticas :mag_right:  <br>
-<div>
-  <a href="https://github.com/ircvf"></a>
- ![Roberto Filho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ircvf&show_icons=true&theme=dracula)
-</div>
+![Roberto Filho's GitHub stats](https://github-readme-stats.vercel.app/api?username=ircvf&show_icons=true&theme=dracula)
  
