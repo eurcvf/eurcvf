@@ -1,5 +1,3 @@
-<img align="right" height="590em" src="https://raw.githubusercontent.com/gist/byrcvf/6a3b93304758594ed7ac4d9a59ea052e/raw/4f35798bcfadcb8cf7a4448f724752e9f604ad97/githubcard.svg">
-
 <h2>Olá! Meu nome é Roberto!</h1>
 
 <p> ★ :computer: Desenvolvedor Web. </p>
