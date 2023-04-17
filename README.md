@@ -14,14 +14,8 @@
 ## Estudando :books:  
 <div style="display: inline-block;">
   <img align="center" alt="NodeJS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor" />
-  <img align="center" alt="NextJS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original-wordmark.svg" />
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
 </div>
- 
-## Quantidade de Visitas :mag_right:  <br>
-<p align="left"> 
-  <img align="center" src="https://profile-counter.glitch.me/byrcvf/count.svg" />
-</p>
  
 ## Estatísticas :mag_right:  <br>
 <div align="left">
