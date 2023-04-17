@@ -18,8 +18,11 @@
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
 </div>
  
- ## Quantidade de Visitas :mag_right:  <br>
- <p align="left"> 
-   <img align="center" src="https://profile-counter.glitch.me/byrcvf/count.svg" />
- </p>
+## Quantidade de Visitas :mag_right:  <br>
+<p align="left"> 
+  <img align="center" src="https://profile-counter.glitch.me/byrcvf/count.svg" />
+</p>
+ 
+## Estatísticas :mag_right:  <br>
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ircvf)](https://github.com/ircvf/github-readme-stats)
  
