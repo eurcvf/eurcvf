@@ -31,9 +31,4 @@
   </a>
 </div>
 <br>
-<div align="left">
-
-  ![Snake animation](https://github.com/ircvf/ircvf/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
  
