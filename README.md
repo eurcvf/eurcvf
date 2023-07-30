@@ -16,13 +16,5 @@
   <img align="center" alt="NodeJS" height="30" width="40" src="https://icongr.am/devicon/nodejs-original.svg?size=40&color=currentColor" />
   <img align="center" alt="PostgreSQL" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-plain-wordmark.svg" />
 </div>
- 
-## Estatísticas :mag_right:  <br>
-<div align="left">
-  <a href="https://github.com/ircvf">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=ircvf&show_icons=true&theme=dracula"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ircvf&theme=dracula&hide_border=false&&layout=compact"/>
-  </a>
-</div>
 <br>
  
