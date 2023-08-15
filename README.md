@@ -1,7 +1,7 @@
 <h2>Olá! Meu nome é Roberto!</h1>
 <p> ★ :computer: Desenvolvedor Web. </p>
 <p> ★ 👨‍🎓 Cursando Análise e Desenv. de Sistemas, 4° periodo. </p>
-<p> ★ 🎯 Interesse em: Front-end, Back-end e Mobile. </p>
+<p> ★ 🎯 Interesse em: Front-end, Back-end, Mobile, Análise de Dados e Ciência de Dados. </p>
 
 ## Meus Conhecimentos :trophy: 
 <div style="display: inline-block;">
