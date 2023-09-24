@@ -1,14 +1,27 @@
-<h2>Olá! Meu nome é Roberto!</h1>
+<h1 align="center" display="inline">👩‍💻 🚀 Roberto Filho - Desenvolvedor Web</h1>
+
 <p> ★ :computer: Desenvolvedor Web. </p>
 <p> ★ 👨‍🎓 Cursando Análise e Desenv. de Sistemas, 4° periodo. </p>
 <p> ★ 🎯 Interesse em: Front-end, Back-end, Mobile, Análise de Dados e Ciência de Dados. </p>
 
-## Meus Conhecimentos :trophy: 
-<div style="display: inline-block;">
-  <img align="center" title="HTML5" alt="HTML5" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center"  title="CSS3" alt="CSS3" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center"  title="SASS" alt="SASS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sass/sass-original.svg" />
-  <img align="center" alt="JavaScript" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
-  <img align="center" alt="Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
+----
+
+<div align="center" display="inline">
+  <a href="https://github.com/eurcvf">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=eurcvf&show_icons=true&theme=prussian&include_all_commits=true&hide_border=true" width="430px"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=eurcvf&layout=compact&langs_count=8&theme=prussian&hide_border=true" width="410px"/>
 </div>
-<br>
+
+<br />
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,js,ts,react,nextjs,vuejs,redux,jest,styledcomponents,tailwind,figma,git,docker" />
+  </a>
+</p>
+
+----
+
+<div align="center">
+  <p>Confie no processo, no final tudo dará certo! #NeverStopLearn</p>
+</div>
