@@ -16,7 +16,6 @@
 <br />
 
 <p align="center">
-  <h2>Tecnologias</h2>
   <a href="https://skillicons.dev">
     <img src="https://skillicons.dev/icons?i=html,css,js,sass,python" />
   </a>
