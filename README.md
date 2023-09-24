@@ -14,9 +14,10 @@
 
 <br />
 
+## LINGUAGEM DE PROGRAMAÇÃO
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,python" />
+    <img src="https://skillicons.dev/icons?i=js,python" />
   </a>
 </p>
 
