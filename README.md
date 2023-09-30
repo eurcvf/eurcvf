@@ -28,3 +28,8 @@
   <p>Confie no processo, no final tudo dará certo!</p>
   <p>#NeverStopLearning</p>
 </div>
+
+----
+
+![Snake animation]
+(https://github.com/your_username/your_username/blob/output/github-contribution-grid-snake.svg)
