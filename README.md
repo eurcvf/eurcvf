@@ -1,9 +1,8 @@
 <h1 align="center" display="inline">🚀 Roberto Filho - Desenvolvedor Web 🚀</h1>
 
 <br/>
-<p> ★ :computer: Desenvolvedor Web. </p>
+<p> ★ :computer: Desenvolvedor Web | 👩‍💻 Assistente de TI na Gestora Contabilidade. </p>
 <p> ★ 👨‍🎓 Cursando Análise e Desenv. de Sistemas, 4° periodo. </p>
-<p> ★ 👩‍💻 Assistente de TI na Gestora Contabilidade. </p>
 <p> ★ 🎯 Interesse em aprendizagem: Front-end, Back-end, Mobile, Análise de Dados e Ciência de Dados. </p>
 
 ----
