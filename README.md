@@ -31,6 +31,6 @@
 
 ----
 
-![Snake animation](https://github.com/your_username/your_username/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/eurcvf/eurcvf/blob/output/github-contribution-grid-snake.svg)
 
-[![readme](https://github-readme-stats.vercel.app/api/pin/?username=your_username&repo=your_username&theme=react)](https://github.com/your_username/your_username)
+[![readme](https://github-readme-stats.vercel.app/api/pin/?username=eurcvf&repo=eurcvf&theme=react)](https://github.com/eurcvf/eurcvf)
