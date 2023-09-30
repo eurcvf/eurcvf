@@ -31,7 +31,9 @@
 
 ----
 
-![Snake animation](https://github.com/eurcvf/eurcvf/blob/output/github-contribution-grid-snake.svg)
+<div align="center">
+  ![Snake animation](https://github.com/eurcvf/eurcvf/blob/output/github-contribution-grid-snake.svg)
+</div>
 
 [![readme](https://github-readme-stats.vercel.app/api/pin/?username=eurcvf&repo=eurcvf&theme=react)](https://github.com/eurcvf/eurcvf)
 
