@@ -25,5 +25,5 @@
 
 <div align="center">
   <p>Confie no processo, no final tudo dará certo!</p>
-  <p>#NeverStopLearn</p>
+  <p>#NeverStopLearning</p>
 </div>
