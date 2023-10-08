@@ -2,7 +2,7 @@
 
 <br/>
 <p> ★ :computer: Desenvolvedor Web (Focado em Fullstack). </p>
-<p> ★ 👩‍💻 Assistente de TI na Gestora Contabilidade. </p>
+<p> ★ 👩‍💻 Assistente de TI @ Gestora Contabilidade. </p>
 <p> ★ 👨‍🎓 Cursando Análise e Desenv. de Sistemas, 4° periodo. </p>
 <p> ★ 🎯 Interesse em aprendizagem: Front-end, Back-end, Mobile, Análise de Dados e Ciência de Dados. </p>
 
@@ -18,7 +18,7 @@
 
 <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,sass,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,,sass,js,ts,react,node,python" />
   </a>
 </p>
 
