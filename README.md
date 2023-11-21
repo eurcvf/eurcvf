@@ -6,11 +6,19 @@
 <p> ★ 👨‍🎓 Cursando Análise e Desenv. de Sistemas, 4° periodo. </p>
 <p> ★ 🎯 Interesse em aprendizagem: Front-end, Back-end, Mobile, Análise de Dados e Ciência de Dados. </p>
 
-# Tecnologia
+## Tecnologias
 
-<p align="center">
+<p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,js,react,next,nodejs,nest,python" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next,nodejs,nest,python,docker" />
+  </a>
+</p>
+
+## Ferramentas
+
+<p align="left">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=vscode,figma" />
   </a>
 </p>
 
