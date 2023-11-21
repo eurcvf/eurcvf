@@ -10,7 +10,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next,nodejs,nest,python,docker" />
+    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next,nodejs,nest,python" />
   </a>
 </p>
 
@@ -18,7 +18,7 @@
 
 <p align="left">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,github" />
+    <img src="https://skillicons.dev/icons?i=vscode,figma,github,docker" />
   </a>
 </p>
 
