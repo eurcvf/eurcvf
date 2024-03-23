@@ -1,10 +1,7 @@
 <h1 align="center" display="inline">🚀 Roberto Filho - Desenvolvedor Web 🚀</h1>
 
 <br/>
-<p> ★ :computer: Desenvolvedor Web FullStack. </p>
-<p> ★ 👩‍💻 Assistente de TI @ Gestora Contabilidade. </p>
-<p> ★ 👨‍🎓 Cursando Análise e Desenv. de Sistemas, 4° periodo. </p>
-<p> ★ 🎯 Gosto de trabalhar com: Front-end, Back-end, Mobile, Análise de Dados e Ciência de Dados. </p>
+<p> ★ 👨‍🎓 Cursando Análise e Desenv. de Sistemas, 5° periodo. </p>
 
 ## Tecnologias
 
