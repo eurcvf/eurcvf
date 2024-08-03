@@ -32,7 +32,7 @@
 ----
 
 <div align="center">
-  <p>Confie no processo, no final tudo dará certo!</p>
+  <p>Para cada linha de código, o sucesso se encontra mais perto!</p>
   <p>#NeverStopLearning</p>
 </div>
 
