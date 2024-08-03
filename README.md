@@ -1,7 +1,7 @@
 <h1 align="center" display="inline">🚀 Roberto Filho - Desenvolvedor Web 🚀</h1>
 
 <br/>
-<p> ★ 👨‍🎓 Cursando Análise e Desenv. de Sistemas, 5° periodo. </p>
+<p> ★ 👨‍🎓 Cursando Análise e Desenv. de Sistemas, 6° periodo. </p>
 
 ## Tecnologias
 
