@@ -1,12 +1,19 @@
 <h1 align="center">🚀 Roberto Filho - Analista de Dados / Desenvolvedor FullStack 🚀</h1>
 
-## Sobre Mim
 
-Seja bem-vindo(a) ao meu perfil!
+Olá, bem-vindo(a) ao meu perfil!
+Meu nome é Roberto, tenho 22 anos e atualmente estou no último período do curso de Análise e Desenvolvimento de Sistemas pela Uniasselvi. Sou apaixonado por tecnologia e inovação, e acredito que essas áreas têm o potencial de transformar nossos desafios diários e aprimorar nossas habilidades de raciocínio lógico e estratégico.
 
-Meu nome é **Roberto**, tenho **22 anos** e estou no último período do curso de **Análise e Desenvolvimento de Sistemas** pela **Uniasselvi**. Sou apaixonado por **tecnologia** e **inovação**. Acredito que, com a tecnologia, podemos melhorar nossa performance em desafios diários e aprimorar nossas capacidades de raciocínio lógico e estratégia para encontrar as melhores soluções.
+🚀 Sobre Mim
+Estou em busca constante de como a tecnologia pode otimizar a performance e fornecer soluções inovadoras para problemas do cotidiano. Esse entusiasmo me levou a explorar a análise de dados, uma área fascinante que envolve examinar grandes volumes de informações para extrair insights valiosos e apresentá-los de maneira intuitiva e dinâmica.
 
-Com isso, desenvolvi uma grande vontade de explorar a área de **análise de dados**, que envolve examinar grandes volumes de dados para extrair informações significativas e apresentá-las de forma intuitiva e dinâmica. Estou aprendendo a usar ferramentas essenciais como **Excel**, **Power BI**, **SQL** e **Python** para coleta, processamento e visualização de dados.
+🛠️ Tecnologias que estou aprendendo
+Excel: Ferramenta essencial para manipulação e análise de dados.
+Power BI: Para criar visualizações interativas e relatórios dinâmicos.
+SQL: Linguagem fundamental para a gestão e consulta de bancos de dados.
+Python: Linguagem poderosa para análise de dados e automação.
+💬 Vamos Conectar?
+Estou sempre aberto a novas oportunidades e colaborações. Se você compartilha interesses semelhantes ou tem alguma ideia empolgante, sinta-se à vontade para entrar em contato!
 
 ## Tecnologias
 
