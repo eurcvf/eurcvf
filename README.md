@@ -2,8 +2,7 @@
 
 <br/>
 
-## Sobre Mim
-<p> ★ 👨‍🎓 Cursando último período de Análise e Desenvolvimento de Sistemas. </p>
+##★ 👨‍🎓 Sobre Mim
 
 Seja bem-vindo(a) ao meu perfil!
 
