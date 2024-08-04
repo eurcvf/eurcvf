@@ -1,4 +1,4 @@
-<h1 align="center" display="inline">🚀 Roberto Filho - Desenvolvedor Web 🚀</h1>
+<h1 align="center" display="inline">🚀 Roberto Filho - Analista de Dados/Desenvolvedor FullStack 🚀</h1>
 
 <br/>
 <p> ★ 👨‍🎓 Cursando Análise e Desenv. de Sistemas, 6° periodo. </p>
