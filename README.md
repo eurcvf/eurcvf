@@ -3,6 +3,13 @@
 <br/>
 <p> ★ 👨‍🎓 Cursando Análise e Desenv. de Sistemas, 6° periodo. </p>
 
+
+Seja bem-vindo(a) ao meu perfil!
+
+Meu nome é Roberto, tenho 22 anos e estou cursando o último período do curso de Análise e Desenvolvimento de Sistemas pela instituição Uniasselvi. Sou apaixonado por tecnologia e inovação. Acredito que, com a tecnologia, podemos melhorar a performance em nossos desafios diários e, além disso, aprimorar nossa capacidade de raciocínio lógico e estratégia para encontrar as melhores soluções para o nosso dia a dia.
+
+Com isso, despertou uma grande vontade de começar a aprender sobre a área de análise de dados, que consiste em examinar grandes volumes de dados para extrair informações significativas e apresentá-las de forma intuitiva e dinâmica. Para isso, é necessário estudar algumas tecnologias como Excel, Power BI, SQL e Python, que são ferramentas essenciais para a coleta, processamento e visualização dos dados.
+
 ## Tecnologias
 
 <p align="left">
