@@ -3,13 +3,13 @@
 
 <h1>Olá, bem-vindo(a) ao meu perfil!</h1>
 
-<p align="center">Meu nome é <strong>Roberto</strong>, tenho <strong>22 anos</strong> e atualmente estou no último período do curso de <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>Uniasselvi</strong>. Sou apaixonado por <strong>tecnologia</strong> e <strong>inovação</strong>, e acredito que essas áreas têm o potencial de transformar nossos desafios diários e aprimorar nossas habilidades de raciocínio lógico e estratégico.</p>
+<h2>🚀 Sobre Mim</h2>
 
-<h2 align="center">🚀 Sobre Mim</h2>
+<p>Meu nome é <strong>Roberto</strong>, tenho <strong>22 anos</strong> e estou cursando o último período do curso de <strong>Análise e Desenvolvimento de Sistemas</strong> pela instituição <strong>Uniasselvi</strong>. Sou apaixonado por <strong>tecnologia</strong> e <strong>inovação</strong>. Acredito que, com a tecnologia, podemos melhorar a performance em nossos desafios diários e, além disso, aprimorar nossa capacidade de <strong>raciocínio lógico</strong> e <strong>estratégia</strong> para encontrar as melhores soluções para o nosso dia a dia.</p>
 
-<p align="center">Estou em busca constante de como a tecnologia pode otimizar a performance e fornecer soluções inovadoras para problemas do cotidiano. Esse entusiasmo me levou a explorar a <strong>análise de dados</strong>, uma área fascinante que envolve examinar grandes volumes de informações para extrair insights valiosos e apresentá-los de maneira intuitiva e dinâmica.</p>
+<p>Com isso, despertou uma grande vontade de começar a aprender sobre a área de <strong>análise de dados</strong>, que consiste em examinar grandes volumes de dados para extrair <strong>informações significativas</strong> e apresentá-las de forma <strong>intuitiva</strong> e <strong>dinâmica</strong>. Para isso, é necessário estudar algumas <strong>tecnologias</strong> como <strong>Excel</strong>, <strong>Power BI</strong>, <strong>SQL</strong> e <strong>Python</strong>, que são ferramentas essenciais para a <strong>coleta</strong>, <strong>processamento</strong> e <strong>visualização dos dados</strong>.</p>
 
-<h2 align="center">🛠️ Tecnologias que estou aprendendo</h2>
+<h2>🛠️ Tecnologias que estou aprendendo</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -17,7 +17,7 @@
   </a>
 </p>
 
-<h2 align="center">🛠️ Ferramentas</h2>
+<h2>🛠️ Ferramentas</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -25,7 +25,7 @@
   </a>
 </p>
 
-<h2 align="center">📊 Estatísticas</h2>
+<h2>📊 Estatísticas</h2>
 
 <div align="center">
   <a href="https://github.com/eurcvf">
@@ -36,15 +36,8 @@
 
 <br />
 
-<h2 align="center">💬 Vamos Conectar?</h2>
-
-<p align="center">Estou sempre aberto a novas oportunidades e colaborações. Se você compartilha interesses semelhantes ou tem alguma ideia empolgante, sinta-se à vontade para entrar em contato!</p>
-
-----
-
 <div align="center">
   <p>Para cada linha de código, o sucesso se encontra mais perto!</p>
   <p><strong>#NeverStopLearning</strong></p>
 </div>
 
-----
