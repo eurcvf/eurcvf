@@ -1,21 +1,15 @@
 <h1 align="center">🚀 Roberto Filho - Analista de Dados / Desenvolvedor FullStack 🚀</h1>
 
 
-Olá, bem-vindo(a) ao meu perfil!
-Meu nome é Roberto, tenho 22 anos e atualmente estou no último período do curso de Análise e Desenvolvimento de Sistemas pela Uniasselvi. Sou apaixonado por tecnologia e inovação, e acredito que essas áreas têm o potencial de transformar nossos desafios diários e aprimorar nossas habilidades de raciocínio lógico e estratégico.
+<h1 align="center">Olá, bem-vindo(a) ao meu perfil!</h1>
 
-🚀 Sobre Mim
-Estou em busca constante de como a tecnologia pode otimizar a performance e fornecer soluções inovadoras para problemas do cotidiano. Esse entusiasmo me levou a explorar a análise de dados, uma área fascinante que envolve examinar grandes volumes de informações para extrair insights valiosos e apresentá-los de maneira intuitiva e dinâmica.
+<p align="center">Meu nome é <strong>Roberto</strong>, tenho <strong>22 anos</strong> e atualmente estou no último período do curso de <strong>Análise e Desenvolvimento de Sistemas</strong> pela <strong>Uniasselvi</strong>. Sou apaixonado por <strong>tecnologia</strong> e <strong>inovação</strong>, e acredito que essas áreas têm o potencial de transformar nossos desafios diários e aprimorar nossas habilidades de raciocínio lógico e estratégico.</p>
 
-🛠️ Tecnologias que estou aprendendo
-Excel: Ferramenta essencial para manipulação e análise de dados.
-Power BI: Para criar visualizações interativas e relatórios dinâmicos.
-SQL: Linguagem fundamental para a gestão e consulta de bancos de dados.
-Python: Linguagem poderosa para análise de dados e automação.
-💬 Vamos Conectar?
-Estou sempre aberto a novas oportunidades e colaborações. Se você compartilha interesses semelhantes ou tem alguma ideia empolgante, sinta-se à vontade para entrar em contato!
+<h2 align="center">🚀 Sobre Mim</h2>
 
-## Tecnologias
+<p align="center">Estou em busca constante de como a tecnologia pode otimizar a performance e fornecer soluções inovadoras para problemas do cotidiano. Esse entusiasmo me levou a explorar a <strong>análise de dados</strong>, uma área fascinante que envolve examinar grandes volumes de informações para extrair insights valiosos e apresentá-los de maneira intuitiva e dinâmica.</p>
+
+<h2 align="center">🛠️ Tecnologias que estou aprendendo</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -23,7 +17,7 @@ Estou sempre aberto a novas oportunidades e colaborações. Se você compartilha
   </a>
 </p>
 
-## Ferramentas
+<h2 align="center">🛠️ Ferramentas</h2>
 
 <p align="left">
   <a href="https://skillicons.dev">
@@ -31,7 +25,7 @@ Estou sempre aberto a novas oportunidades e colaborações. Se você compartilha
   </a>
 </p>
 
-----
+<h2 align="center">📊 Estatísticas</h2>
 
 <div align="center">
   <a href="https://github.com/eurcvf">
@@ -41,6 +35,10 @@ Estou sempre aberto a novas oportunidades e colaborações. Se você compartilha
 </div>
 
 <br />
+
+<h2 align="center">💬 Vamos Conectar?</h2>
+
+<p align="center">Estou sempre aberto a novas oportunidades e colaborações. Se você compartilha interesses semelhantes ou tem alguma ideia empolgante, sinta-se à vontade para entrar em contato!</p>
 
 ----
 
