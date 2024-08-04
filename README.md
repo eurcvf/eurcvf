@@ -2,7 +2,7 @@
 
 <br/>
 
-##★ 👨‍🎓 Sobre Mim
+## Sobre Mim
 
 Seja bem-vindo(a) ao meu perfil!
 
