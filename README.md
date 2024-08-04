@@ -2,6 +2,8 @@
 
 <br/>
 
+<p>★ 👨‍🎓 Cursando Análise e Desenvolv. de Sistemas (Último Período)</p>
+
 ## Sobre Mim
 
 Seja bem-vindo(a) ao meu perfil!
