@@ -1,8 +1,5 @@
 <h1 align="center">🚀 Roberto Filho - Analista de Dados / Desenvolvedor FullStack 🚀</h1>
 
-
-<h1>Olá, bem-vindo(a) ao meu perfil!</h1>
-
 <h2>🚀 Sobre Mim</h2>
 
 <p>Meu nome é <strong>Roberto</strong>, tenho <strong>22 anos</strong> e estou cursando o último período do curso de <strong>Análise e Desenvolvimento de Sistemas</strong> pela instituição <strong>Uniasselvi</strong>. Sou apaixonado por <strong>tecnologia</strong> e <strong>inovação</strong>. Acredito que, com a tecnologia, podemos melhorar a performance em nossos desafios diários e, além disso, aprimorar nossa capacidade de <strong>raciocínio lógico</strong> e <strong>estratégia</strong> para encontrar as melhores soluções para o nosso dia a dia.</p>
