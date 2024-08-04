@@ -1,4 +1,4 @@
-<h1 align="center">🚀 Roberto Filho - Analista de Dados & Desenvolvedor 🚀</h1>
+<h1 align="center">🚀 Roberto Filho - Analista de Dados 🚀</h1>
 
 <h2>🙍‍♂️ Sobre Mim</h2>
 
