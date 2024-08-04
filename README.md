@@ -6,21 +6,16 @@
 
 <p>Esse interesse me levou a explorar a área de <strong>análise de dados</strong>, que envolve examinar grandes volumes de <strong>informações</strong> para extrair <strong>insights significativos</strong> e apresentá-los de forma <strong>intuitiva</strong> e <strong>dinâmica</strong>. Para isso, estou estudando <strong>tecnologias</strong> como <strong>Excel</strong>, <strong>Power BI</strong>, <strong>SQL</strong> e <strong>Python</strong>, que são ferramentas essenciais para a <strong>coleta</strong>, <strong>processamento</strong> e <strong>visualização dos dados</strong>.</p>
 
-<h2>🛠️ Tecnologias que estou aprendendo</h2>
+<h2>🛠️ Tecnologias</h2>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,tailwind,js,react,next,nodejs,nest,python" />
-  </a>
-</p>
+<ul>
+  <li><strong>Excel</strong>: Essencial para manipulação e análise de dados com cálculos e gráficos.</li>
+  <li><strong>Power BI</strong>: Criação de visualizações interativas e relatórios dinâmicos.</li>
+  <li><strong>SQL</strong>: Gestão e consulta de dados em bancos de dados relacionais.</li>
+  <li><strong>Python</strong>: Linguagem com bibliotecas como Pandas e Matplotlib para análise e visualização de dados.</li>
+</ul>
 
-<h2>🛠️ Ferramentas</h2>
 
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=vscode,figma,github,vite,docker" />
-  </a>
-</p>
 
 <h2>📊 Estatísticas</h2>
 
