@@ -1,9 +1,5 @@
 <h1 align="center" display="inline">🚀 Roberto Filho - Analista de Dados/Desenvolvedor FullStack 🚀</h1>
-
 ## Sobre Mim
-
-<p>★ 👨‍🎓 Cursando Análise e Desenvolv. de Sistemas (Último Período)</p>
-<p>★ 💭 Experiência em Análise de Dados e Desenvolvimento FullStack</p>
 
 Seja bem-vindo(a) ao meu perfil!
 
